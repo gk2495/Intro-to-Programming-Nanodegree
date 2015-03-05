@@ -1,0 +1,90 @@
+<!-- This is a practice of an HTML comment. -->
+<!-- Using comments will help people read code. It is important to remember that this is ignored by the computer.  I will use this in future instances to leave notes for myself or anyone else who may read this later. -->
+
+<!-- At the start of stage 0 I learned that you can create a <head> element that contains information that won't be displayed on the page. An example is provided below -->
+<head>
+   <title>Notes from my first Udacity lesson 'Introduction to Programming'</title>
+</head>
+
+<!-- <h1> tag stand for "heading 1". Heading tags go to <h6>. Where lower numbered headings indicate content that is more important. -->
+
+<!--In the first lesson we i learned about the World Wide Web and HTML. -->
+
+<h1>The Basics of the Web and HTML</h1>
+
+<b>The World Wide Web</b> 
+<p>The <b><em>World Wide Web</em></b> was developed in the early 1990s and has around 30 billion pages. The <b><em> World Wide Web</em></b> is a collection of HTML documents. These documents are made up of HTML.
+Click the following link to <a href="https://www.udacity.com/course/viewer/#!/c-nd000/l-3873828673/e-48230539/m-48742046">Review Lesson</a>.
+</p>
+
+<b>Web Concept</b>
+<p>The major pieces of the web are you, your computer running a web browser, the internet, and servers. When you go to a web page your computer sends a HTTP request to a server. The server gets the HTML document and sends it back to the user where a web browser interprets the page and displays it. Click the following link to
+<a href="https://www.udacity.com/course/viewer/#!/c-nd000/l-3873828673/e-48329854/m-48299873">Review Lesson</a>
+</p>
+
+<b>HTML</b>
+<p><b><em>Hyper Text Markup Language</em></b> is the basis for almost every webpage. HTML is the main type of document on the web. It is what glues everything together such as documents, images, and videos. There are many types of files that can be found on the web such as Plain text, HTML, Images, Videos, and Music.
+Click the following link to <a href="https://www.udacity.com/course/viewer/#!/c-nd000/l-3873828673/e-48230539/m-48742046">Review Lesson</a>.
+</p>
+
+<p>HTML is made up of Text content (what you see), Markup (what it looks like), reference to other documents (like images and videos), and links to other pages. Click the following link to
+<a href="https://www.udacity.com/course/viewer/#!/c-nd000/l-3873828673/m-487243403">Review Lesson</a>
+</p>
+
+<b>HTML Markup, Tags, Attributes, Elements</b>
+<p>HTML Markup is made up of <b><em>Tags</em></b>. Opening Tags are different from Closing Tags in that Closing Tags have a (/) in front of them. Some examples of tags are (b) = bold and (em) = italic tags.
+</p>
+
+<p>Tags can have multiple <b><em>Attributes</em></b>. An example of a Tag that uses an <b>Attribute</b> is the (a) Tag = Anchor Tag.  The A Tag can use<em>( href=)</em> to create a hyperlink. Another Tag that can use an Attribute is the "<b>img</b>" Tag.  The "<b>img</b>" Tag uses <em>(src=)</em> also known as URL.
+</p>
+
+<p>HTML documents are made of elements. An <b><em>Element</em></b> can be looked as a individual component of an HTML document. Click the following link to
+<a href="https://www.udacity.com/course/viewer/#!/c-nd000/l-3873828673/m-48723444">Review Lesson</a>.
+</p>
+
+<b>Inline Vs Block</b>
+<p><b><em>Block</em></b> elements normally start with a new line. Can have height and width "invisable boxes"  Examples: (h1), (p), and (div).
+<p>
+
+<p><b><em>Inline</em></b> elements are normally displayed without line breaks. Examples: (br), (b), (a), (img), (span).
+</p>
+
+<p>Click the following link to <a href="https://www.udacity.com/course/viewer/#!/c-nd000/l-3873828673/m-48723438">Review Lesson</a>.
+</p>
+
+<b>Stupid Computers</b>
+<p>Computers are "stupid" because they interpret instructions or what we code literally.
+</p>
+<br>
+<br>
+<br>
+
+<h2>5 MOST IMPORTANT THINGS TO TAKE</h2>
+
+<b>1. What is a webpage?</b>
+<p>A webpage is a "<em>text document</em>" written in a language called HTML.  Web browsers reaqd these documents, and then interpret and display them.
+</p>
+
+<b>2. How coding works.</b>
+<p>Coding happens when programmers write text in a language that a computer can understand.
+</p>
+
+<b>3. Computers are stupid.</b>
+<p>Programmers need to write <em>exactly</em> the way a computer understands (also known as writing with correct "syntax)."</p>
+
+<b>4. Programmers Cant' Remember Everything'</b>
+<p>There are too many details to keep in your head. You can always look it up. :)
+</p>
+
+<b>5. Basic HTML Vocabulary</b>
+<p><b>Tag</b>: an HTML tag is always contained within angled brackets. Some tags called "void tags" do not require a closing tag (like the br tag)
+<br>
+<br>
+<b>Element</b>: An HTML element refers to everything within a set of openings and closing tags.
+<br>
+<br>
+<b>Atribute</b>: This is a property of an HTML element.
+<br>
+<br>
+Click the following link to <a href="https://www.udacity.com/course/viewer/#!/c-nd000/l-3873828673/m-3531969339">Review Lesson</a>
+
